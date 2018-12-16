@@ -1,6 +1,6 @@
 {
   "name": "@desuuuu/jrpc-transport-tls",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JSON-RPC TLS transport for @desuuuu/jrpc-client",
   "main": "index.js",
   "dependencies": {
