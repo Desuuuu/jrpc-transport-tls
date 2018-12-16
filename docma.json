@@ -1,0 +1,35 @@
+{
+  "src": [ "./index.js" ],
+  "dest": "./docs",
+  "clean": true,
+  "jsdoc": {
+    "sort": "grouped",
+    "plugins": [ "jsdoc-promise" ]
+  },
+  "app": {
+    "title": "jrpc-transport-tls",
+    "base": "/jrpc-transport-tls",
+    "server": "github"
+  },
+  "template": {
+    "options": {
+      "title": "jrpc-transport-tls",
+      "sidebar": {
+        "search": false
+      },
+      "symbols": {
+        "autoLink": true
+      },
+      "navbar": {
+        "menu": [
+          {
+            "iconClass": "fab fa-lg fa-github",
+            "label": "GitHub",
+            "href": "https://github.com/desuuuu/jrpc-transport-tls",
+            "target": "_blank"
+          }
+        ]
+      }
+    }
+  }
+}
