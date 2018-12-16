@@ -10,7 +10,7 @@ JSON-RPC TLS transport for [`@desuuuu/jrpc-client`](https://www.npmjs.com/packag
 npm install @desuuuu/jrpc-transport-tls
 ```
 
-Take a look at the [examples/](examples) for sample code.
+Take a look at the [examples](examples) for sample code.
 
 ## [Documentation](https://docs.desuuuu.com/jrpc-transport-tls)
 
