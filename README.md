@@ -1,7 +1,7 @@
 # jrpc-transport-tls
 
 [![npm](https://img.shields.io/npm/v/@desuuuu/jrpc-transport-tls.svg)](https://www.npmjs.com/package/@desuuuu/jrpc-transport-tls)
-[![Size](https://img.shields.io/github/languages/code-size/desuuuu/jrpc-transport-tls.svg)](/)
+[![Size](https://img.shields.io/github/languages/code-size/desuuuu/jrpc-transport-tls.svg)](#)
 [![License](https://img.shields.io/github/license/desuuuu/jrpc-transport-tls.svg)](LICENSE)
 
 JSON-RPC TLS transport for [`@desuuuu/jrpc-client`](https://www.npmjs.com/package/@desuuuu/jrpc-client).
