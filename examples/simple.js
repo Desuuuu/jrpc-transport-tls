@@ -1,6 +1,6 @@
 'use strict';
 
-const JRPCClient = require('@desuuu/jrpc-client');
+const JRPCClient = require('@desuuuu/jrpc-client');
 const TLSTransport = require('@desuuuu/jrpc-transport-tls');
 
 (async () => {
